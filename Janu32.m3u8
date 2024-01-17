@@ -3,16 +3,16 @@
 
 #EXTINF:0 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI - [Channel 118].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal" tvg-chno="1",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://43.229.148.133:9981/stream/channelid/1593602663?ticket=6FA78D8DEA376F911B212E9F39205C824AF4DBAE&profile=pass
+http://43.229.148.133:9981/stream/channelid/1593602663?ticket=11CF67370921633B506A9E48E6147428F753789F&profile=pass
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png" group-title="Lokal" tvg-chno="3",TVRI World
 http://43.229.148.133:9981/stream/channelid/1244906173?ticket=8E0CBB4601F6F85F61496048C2349F235516B980&profile=pass
 
 #EXTINF:0 tvg-id="TVRINasional.id" tvg-name="TVRI Jawa Timur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal" tvg-chno="2",TVRI Jawa Timur
-http://43.229.148.133:9981/stream/channelid/842802806?ticket=7BF2639623BC966B9C3313F7A252432177EA4C7C&profile=pass
+http://43.229.148.133:9981/stream/channelid/526363306?ticket=E91FEBADD52E51B2BCE745B383B6D261FF35AE88&profile=pass
 
 #EXTINF:0 tvg-id="TVRISport.id"  tvg-name="TVRI Sport" tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="Sports" tvg-chno="4",TVRI Sport 
-http://43.229.148.133:9981/stream/channelid/676088833?ticket=FBC714E0B2ACED4DABFEA3A7E991D8F300DAC5E5&profile=pass
+http://43.229.148.133:9981/stream/channelid/676088833?ticket=FD2E98B39BC856C1E4061CD3017939E08F0C3945&profile=pass
 
 #EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal" tvg-chno="5",RCTI
 http://43.229.148.133:9981/stream/channelid/1283795999?ticket=BA32AAEAD8D04BD0DA4E0EEF77E8A1D456F46AA2&profile=pass
@@ -39,10 +39,10 @@ http://43.229.148.133:9981/stream/channelid/979076136?ticket=9EFEF462A15429D904C
 http://43.229.148.133:9981/stream/channelid/1538995466?ticket=D03D8333175351CDB0FC867E9009629924D19706&profile=pass
 
 #EXTINF:0 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="Lokal" tvg-chno="14",Trans 7 
-http://43.229.148.133:9981/stream/channelid/2060052538?ticket=554FE2C9B219198CCBB6A416ADA57117165C3FC3&profile=pass
+http://43.229.148.133:9981/stream/channelid/2040636019?ticket=D633506DAC8EAAF211BFDC5D91B6D0668EF375CD&profile=pass
 
 #EXTINF:0 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV - [Channel 87].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="Lokal" tvg-chno="13",Trans TV
-http://43.229.148.133:9981/stream/channelid/1163743708?ticket=99712CF3E24E569328B1B334184ED4AACD321257&profile=pass
+http://43.229.148.133:9981/stream/channelid/1988859384?ticket=745D1C4D142840BF3C27528733696FE81B6FA39D&profile=pass
 
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1920px-Rajawali_Televisi.svg.png" group-title="Lokal" tvg-chno="15",RTV 
 http://43.229.148.133:9981/stream/channelid/306984362?ticket=C2E9146000FD28DC1B2CFC317E1DB1EC67E77978&profile=pass
@@ -56,7 +56,6 @@ http://43.229.148.133:9981/stream/channelid/1151042080?ticket=A5F34E3DBC79E494C2
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="Lokal" tvg-chno="18",tvOne
 http://43.229.148.133:9981/stream/channelid/396380130?ticket=721A50CE8834AB0D255223845CC32219C8C84AF5&profile=pass
 
-
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1920px-KOMPAS_TV_%282017%29.png" group-title="Lokal" tvg-chno="19",Kompas TV
 http://43.229.148.133:9981/stream/channelid/2037463503?ticket=CEDE188AF5B6FED8FC944CE1FB40A86403976144&profile=pass
 
@@ -64,16 +63,16 @@ http://43.229.148.133:9981/stream/channelid/2037463503?ticket=CEDE188AF5B6FED8FC
 http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="Lokal" tvg-chno="21",Metro TV
-http://43.229.148.133:9981/stream/channelid/1272532856?ticket=4F629F6ECA20488CBF4ABCF6956621EC2126E1DB&profile=pass
+http://43.229.148.133:9981/stream/channelid/1141394685?ticket=EFBFC7DAF161E609172CEDC634992FABAEB20384&profile=pass
 
 #EXTINF:0 tvg-id="Garuda TV" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="Lokal" tvg-chno="22",Garuda TV 
-http://43.229.148.133:9981/stream/channelid/1108378478?ticket=5FB380B65353EA391D76AA1FECC714892190EFE5&profile=pass
+http://43.229.148.133:9981/stream/channelid/681876432?ticket=690B64A849577DCB747566BFB47AC9E60663E15F&profile=pass
 
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="Lokal" ,CNN Indonesia
-http://103.237.32.213:9981/stream/channelid/226992202?profile=pass
+http://43.229.148.133:9981/stream/channelid/132767801?ticket=4E2B76104D208CE8E3F0BC9F2384DCD8BA835819&profile=pass
 
 #EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="Lokal" ,CNBC Indonesia
-http://103.237.32.213:9981/stream/channelid/2050623964?profile=pass
+http://43.229.148.133:9981/stream/channelid/1052963665?ticket=230C97AC516DA2DBE72E7821E0CF2F6E1B523A12&profile=pass
 
 #EXTINF:0 tvg-id="IDX HD - [Channel 436].id" tvg-name="IDX HD - [Channel 436].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="Lokal" tvg-chno="25",IDX Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
@@ -394,13 +393,13 @@ https://melon-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekke
 #EXTINF:0 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC Earth HD - [Channel 461].id" tvg-logo="https://i.imgur.com/xXM60fa.png" group-title="Knowleadge" tvg-chno="123",BBC Earth
 https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-name="History - [Channel 206].id tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Premium",History
+#EXTINF:-1 tvg-id="HISTORY HD" tvg-name="HISTORY HD" tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Premium",History
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
-#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-name="History - [Channel 206].id tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Knowleadge",History
+#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-name="History - [Channel 206].id" tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Knowleadge",History
 https://melon-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -409,7 +408,7 @@ https://melon-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="Crime Investigation - [Channel 207].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Knowleadge" tvg-chno="125",Crime + Investigation
 https://melon-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="Crime Investigation - [Channel 207].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Premium" tvg-chno="125",Crime + Investigation
+#EXTINF:-1 tvg-id="Crime + Investigation HD" tvg-name="Crime + Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Premium" tvg-chno="125",Crime + Investigation
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
 
 #EXTINF:0, group-title="Knowleadge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stingray_Naturescape.png/798px-Stingray_Naturescape.png" tvg-chno="129",Stingray Naturescape
@@ -433,13 +432,13 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
-#EXTINF:-1, tvg-id="PARAMOUNT - [Channel 163].id" tvg-name="PARAMOUNT - [Channel 163].id" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Paramount_Network_logo.png?20210208150935" tvg-chno="150",Paramount Network
+#EXTINF:-1, tvg-id="Paramount Network" tvg-name="Paramount Network" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Paramount_Network_logo.png?20210208150935" tvg-chno="150",Paramount Network
 https://melon-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
-#EXTINF:-1, tvg-id="PARAMOUNT - [Channel 163].id" tvg-name="PARAMOUNT - [Channel 163].id" group-title="Entertaiment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Paramount_Network_logo.png?20210208150935" tvg-chno="150",Paramount Network
+#EXTINF:-1, tvg-id="PARAMOUNT - [Channel 163].id" tvg-name="PARAMOUNT - [Channel 163].id" group-title="Entertaiment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Paramount_Network_logo.png?20210208150935" tvg-chno="150",Paramount Network SD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 
-#EXTINF:-1, tvg-id="AXN HD - [Channel 438].id" tvg-name="AXN HD - [Channel 438].id" group-title="Premium" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" tvg-chno="151",AXN
+#EXTINF:-1, tvg-id="AXN HD" tvg-name="AXN HD" group-title="Premium" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" tvg-chno="151",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -472,7 +471,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockente
 #EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" tvg-name="Lifetime - [Channel 167].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/500px-Logo_Lifetime_2020.svg.png" group-title="Entertaiment" tvg-chno="154",Lifetime
 https://melon-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" tvg-name="Lifetime - [Channel 167].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/500px-Logo_Lifetime_2020.svg.png" group-title="Premium" tvg-chno="154",Lifetime
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/500px-Logo_Lifetime_2020.svg.png" group-title="Premium" tvg-chno="154",Lifetime
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
 
 #EXTINF:-1, tvg-id="HITS - [Channel 160].id" tvg-name="HITS - [Channel 160].id" group-title="Entertaiment" tvg-logo="https://i.imgur.com/YeqyD9W.png" tvg-chno="155",HITS
@@ -481,7 +480,7 @@ http://rr.dens.tv/h/h205/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
-#EXTINF:-1, tvg-id="HITS - [Channel 160].id" tvg-name="HITS - [Channel 160].id" group-title="Premium" tvg-logo="https://i.imgur.com/YeqyD9W.png" tvg-chno="155",HITS
+#EXTINF:-1, tvg-id="Hits HD" tvg-name="Hits HD" group-title="Premium" tvg-logo="https://i.imgur.com/YeqyD9W.png" tvg-chno="155",HITS
 https://melon-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-id="HITS MOVIES - [Channel 11].id" tvg-name="HITS MOVIES - [Channel 11].id" tvg-logo="https://i.imgur.com/IZxRzc6.png" group-title="Entertaiment" tvg-chno="156",HITS Movies
@@ -490,7 +489,7 @@ http://rr.dens.tv/h/h206/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
-#EXTINF:-1 tvg-id="HITS MOVIES - [Channel 11].id" tvg-name="HITS MOVIES - [Channel 11].id" tvg-logo="https://i.imgur.com/IZxRzc6.png" group-title="Premium" tvg-chno="156",HITS Movies
+#EXTINF:-1 tvg-id="HITS MOVIES HD" tvg-name="HITS MOVIES HD" tvg-logo="https://i.imgur.com/IZxRzc6.png" group-title="Premium" tvg-chno="156",HITS Movies
 https://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -521,7 +520,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1, tvg-id="MTV LIVE - [Channel 148].id" tvg-name="MTV LIVE - [Channel 148].id" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png" tvg-chno="162",MTV Live
-https://alpukat-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+https://melon-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
 #EXTINF:-1, tvg-id="MTV 90's - [Channel 149].id" tvg-name="MTV 90's - [Channel 149].id" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/298px-MTV_90s_2022.svg.png" tvg-chno="163",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
@@ -579,7 +578,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies HBO",Cinemax
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies HBO",Cinemax SG
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -619,7 +618,7 @@ http://rr.dens.tv/h/h212/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1, tvg-id="Celestial Movies - [Channel 20].id" tvg-name="Celestial Movies - [Channel 20].id" group-title="Premium" tvg-logo="https://i.imgur.com/KYP1xXZ.png" tvg-chno="210",Celestial Movies
-https://alpukat-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+https://melon-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1, tvg-id="CCM - [Channel 22].id" tvg-name="CCM - [Channel 22].id" group-title="Movies" tvg-logo="https://i.imgur.com/X7OZ3w5.png" tvg-chno="211",Celestial Classic Movies
 http://rr.dens.tv/h/h239/index.m3u8|User-Agent=Lavf/56.15.102
@@ -628,7 +627,7 @@ http://rr.dens.tv/h/h239/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1, tvg-id="CCM - [Channel 22].id" tvg-name="CCM - [Channel 22].id" group-title="Premium" tvg-logo="https://i.imgur.com/X7OZ3w5.png" tvg-chno="211",Celestial Classic Movies
-https://alpukat-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+https://melon-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1, tvg-id="Thrill - [Channel 19].id" tvg-name="Thrill - [Channel 19].id" group-title="Movies" tvg-logo="https://i.imgur.com/isr5jto.png" tvg-chno="212",THRILL
 http://rr.dens.tv/h/h241/index.m3u8|User-Agent=Lavf/56.15.102
@@ -637,25 +636,25 @@ http://rr.dens.tv/h/h241/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1, tvg-id="Thrill - [Channel 19].id" tvg-name="Thrill - [Channel 19].id" group-title="Premium" tvg-logo="https://i.imgur.com/isr5jto.png" tvg-chno="212",THRILL
-https://alpukat-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1, tvg-id="Galaxy - [Channel 13].id" tvg-name="Galaxy - [Channel 13].id" group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" tvg-chno="213",Galaxy
-https://alpukat-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1, tvg-id="Galaxy Premium - [Channel 12].id" tvg-name="Galaxy Premium - [Channel 12].id" group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" tvg-chno="214",Galaxy Premium
-https://alpukat-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1, tvg-id="IMC - [Channel 14].id" tvg-name="IMC - [Channel 14].id" group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" tvg-chno="215",Indonesia Movie Channel (IMC)
-https://alpukat-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1, tvg-id="Cinema World" tvg-name="Cinema World" group-title="Movies" tvg-logo="https://i.imgur.com/gHCOcuF.png" tvg-chno="217",Cinema World
 http://rr.dens.tv/h/h202/index.m3u8|User-Agent=Lavf/56.15.102
@@ -664,7 +663,7 @@ http://rr.dens.tv/h/h202/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1, tvg-id="Cinema World" tvg-name="Cinema World" group-title="Premium" tvg-logo="https://i.imgur.com/gHCOcuF.png" tvg-chno="217",Cinema World
-https://alpukat-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+https://melon-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1, tvg-id="Zee Bioskop - [Channel 23].id" tvg-name="Zee Bioskop - [Channel 23].id" group-title="India" tvg-logo="https://i.imgur.com/Xl7MJnd.png" tvg-chno="218",Zee Bioskop SD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
@@ -673,7 +672,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1, tvg-id="Zee Bioskop - [Channel 23].id" tvg-name="Zee Bioskop - [Channel 23].id" group-title="India" tvg-logo="https://i.imgur.com/Xl7MJnd.png" tvg-chno="218",Zee Bioskop
-https://alpukat-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -921,7 +920,7 @@ http://rr.dens.tv/h/h215/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
-#EXTINF:-1, tvg-id="tvN HD - [Channel 446].id" tvg-name="tvN HD - [Channel 446].id" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" tvg-chno="350",TVN
+#EXTINF:-1, tvg-id="tvN HD" tvg-name="tvN HD" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" tvg-chno="350",TVN
 https://melon-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1, tvg-id="tvN Movies HD - [Channel 415].id" tvg-name="tvN Movies HD - [Channel 415].id" group-title="Korea" tvg-logo="https://i.imgur.com/oLzTyUX.png" tvg-chno="351",TVN Movies
@@ -939,7 +938,7 @@ https://melon-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1, tvg-id="ONE - [Channel 164].id" tvg-name="ONE - [Channel 164].id" group-title="Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/512px-One_TV_Asia_logo_%282020%29.png" tvg-chno="352",ONE Channel
 https://melon-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1, tvg-id="ONE - [Channel 164].id" tvg-name="ONE - [Channel 164].id" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/512px-One_TV_Asia_logo_%282020%29.png" tvg-chno="352",ONE Channel
+#EXTINF:-1, tvg-id="ONE (Malay)" tvg-name="ONE (Malay)" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/512px-One_TV_Asia_logo_%282020%29.png" tvg-chno="352",ONE Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
 
 #EXTINF:-1, tvg-id="Kplus" tvg-name="Kplus" group-title="Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8c/K_Plus_Asia_Logo.jpg/220px-K_Plus_Asia_Logo.jpg" tvg-chno="353",K+
@@ -957,7 +956,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1, tvg-id="Animax - [Channel 157].id" tvg-name="Animax - [Channel 157].id" group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1, tvg-id="Animax - [Channel 157].id" tvg-name="Animax - [Channel 157].id" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
+#EXTINF:-1, tvg-id="Animax HD" tvg-name="Animax HD" group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
 
 #EXTINF:-1, tvg-id="Aniplus" tvg-name="Aniplus" group-title="Japan" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" tvg-chno="357",ANIPLUS
@@ -966,13 +965,13 @@ http://rr.dens.tv/h/h201/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1, tvg-id="SGEM" tvg-name="SGEM" group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" tvg-chno="358",GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
 
-#EXTINF:0, tvg-id="NHK World - [Channel 355].id" tvg-name="NHK World - [Channel 355].id" group-title="Japan" tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" tvg-chno="359",NHK World Japan
+#EXTINF:0, tvg-id="NHK WORLD - JAPAN HD" tvg-name="NHK WORLD - JAPAN HD" group-title="Japan" tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" tvg-chno="359",NHK World Japan
 https://bmcc.nhkworld.jp/live/index_1M.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
-#EXTINF:0 tvg-id="NHK World Premium - [Channel 354].id" tvg-name="NHK World Premium - [Channel 354].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_NHK_World_Premium.jpg/512px-Logo_NHK_World_Premium.jpg" group-title="Japan" tvg-chno="360",NHK World Premium
+#EXTINF:0 tvg-id="NHK World Premium HD" tvg-name="NHK World Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_NHK_World_Premium.jpg/512px-Logo_NHK_World_Premium.jpg" group-title="Japan" tvg-chno="360",NHK World Premium
 https://melon-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #EXTINF:-1, tvg-id="Phoenix Chinese Channel HD" tvg-name="Phoenix Chinese Channel HD" group-title="Chinese Channel" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_cn.png" tvg-chno="361",Phoenix Chinese Channel
@@ -1247,7 +1246,6 @@ http://203.77.246.2:443/udp/239.1.3.78:5000
 #EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal 2" ,MNC TV HD
 http://43.229.148.133:9981/stream/channelid/1614103411?ticket=498E9A371C267D05029B4458226B8367225C2A33&profile=pass
 
-
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV HD - [Channel 431].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal 2" ,GTV V+
 http://203.77.246.2:443/udp/239.1.3.68:5000
 
@@ -1290,14 +1288,23 @@ http://rr.dens.tv/h/h234/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="Kompas TV" tvg-name="Kompas TV" tvg-logo="https://www.rbtvjogja.tv/themes/tv/images/logo-1.png" group-title="Lokal 2",Kompas TV - RBTV 
 http://43.229.148.133:9981/stream/channelid/49226639?ticket=094B3968073D206A4D2CD26B8FCB5042F23261A2&profile=pass
 
+#EXTINF:-1 tvg-id="Kompas TV" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1920px-KOMPAS_TV_%282017%29.png" group-title="Lokal 2",Kompas TV HD
+http://43.229.148.133:9981/stream/channelid/629663268?ticket=857720FBFF59AFA73388D4D8ACA207E8B0EA085D&profile=pass
+
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="Lokal 2",Metro TV SD
 http://rr.dens.tv/h/h12/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="Lokal 2",Metro TV Jawa Timur
-http://43.229.148.133:9981/stream/channelid/241774441?ticket=560F40337BC937DCC1CE408CC4CB5E39E45EC06D&profile=pass
+http://43.229.148.133:9981/stream/channelid/1409732919?ticket=25F82C71238D7E28D27C66A2A74BAC598C5586B6&profile=pass
 
 #EXTINF:0 tvg-id="Garuda TV" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="Lokal 2" ,Garuda TV HD
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="TRANS TV" tvg-name="TRANS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="Lokal 2" tvg-chno="13",Trans TV HD
+http://43.229.148.133:9981/stream/channelid/1269387850?ticket=DA17C545F5565977B307BA889357575145CB86ED&profile=pass
+
+#EXTINF:0 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="Lokal 2",Trans 7 TRV
+http://43.229.148.133:9981/stream/channelid/602145045?ticket=BABB5548E62E2B8D3BCCE32FFFE1DABB8BD8FC92&profile=pass
 
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/200px-CNN_Indonesia_logo.svg.png" group-title="Lokal 2" tvg-chno="23",CNN Indonesia SD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
@@ -1335,7 +1342,7 @@ http://rr.dens.tv/h/h238/index.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="SEA Today" tvg-name="SEA Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="Lokal 2" , SEA Today V+
-https://alpukat-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+https://melon-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #EXTINF:0 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_nusantaratv.png/220px-Logo_nusantaratv.png" group-title="Lokal 2" ,Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
