@@ -18,25 +18,25 @@ http://43.229.148.133:9981/stream/channelid/676088833?ticket=FD2E98B39BC856C1E40
 http://43.229.148.133:9981/stream/channelid/1283795999?ticket=BA32AAEAD8D04BD0DA4E0EEF77E8A1D456F46AA2&profile=pass
 
 #EXTINF:0 tvg-id="MNCTV - [Channel 432]" tvg-name="MNCTV - [Channel 82].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal" tvg-chno="6",MNC TV
-http://43.229.148.133:9981/stream/channelid/1485348911?ticket=E1A9D423E3883C0B7B1E26EBD6AF95A03F4A3C5E&profile=pass
+http://43.229.148.133:9981/stream/channelid/1368123482?ticket=77303BC005C535E110165AC5196507517E05B47B&profile=pass
 
 #EXTINF:0 tvg-id="GTV - [Channel 431].id" tvg-name="GTV - [Channel 81].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal" tvg-chno="7",GTV
-http://43.229.148.133:9981/stream/channelid/1663060224?ticket=22B4BF8B130EE767E368851CD4FCE03C8A1BF1BC&profile=pass
+http://43.229.148.133:9981/stream/channelid/644677733?ticket=ED7C127A6D48992ACA05AC8F4D8710BE1CF62542&profile=pass
 
 #EXTINF:0 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews HD - [Channel 433].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal" tvg-chno="8",iNews
-http://43.229.148.133:9981/stream/channelid/5721874?ticket=5B2E6E8E7B818E2171DFE4CEBAEFFD1279885329&profile=pass
+http://43.229.148.133:9981/stream/channelid/561171537?ticket=1709A0FEE03AA51D658C4F2D735E830A08EE0F66&profile=pass
 
 #EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="Lokal" tvg-chno="9",SCTV
-http://43.229.148.133:9981/stream/channelid/670668143?ticket=33D338B0AE20A5A411F375872AA60DC552380E33&profile=pass
+http://43.229.148.133:9981/stream/channelid/1092315611?ticket=186DA947553F4357ADCB60506D9984D3D12E951C&profile=pass
 
 #EXTINF:0 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="Lokal" tvg-chno="11",Indosiar
-http://43.229.148.133:9981/stream/channelid/783908402?ticket=8469810FCEC604A10FAA576C062F5CFC8EF9767D&profile=pass
+http://43.229.148.133:9981/stream/channelid/707880889?ticket=862E91B8BFA9685E42C2A78CF4EF4B120F5960CF&profile=pass
 
 #EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" tvg-chno="12",MOJI 
-http://43.229.148.133:9981/stream/channelid/979076136?ticket=9EFEF462A15429D904C8EDB0C65B5BC168904A17&profile=pass
+http://43.229.148.133:9981/stream/channelid/1514563526?ticket=CBC5B6A97C75889BDD1832996AE15166527FAAD8&profile=pass
 
 #EXTINF:0, tvg-id="Mentari TV" tvg-name="Mentari TV" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mentari_TV.png/200px-Mentari_TV.png" tvg-chno="10", Mentari TV
-http://43.229.148.133:9981/stream/channelid/1538995466?ticket=D03D8333175351CDB0FC867E9009629924D19706&profile=pass
+http://43.229.148.133:9981/stream/channelid/1881610595?ticket=0F3C92E93F16881C8A1B62F127F2242E33CB0DDF&profile=pass
 
 #EXTINF:0 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="Lokal" tvg-chno="14",Trans 7 
 http://43.229.148.133:9981/stream/channelid/2040636019?ticket=D633506DAC8EAAF211BFDC5D91B6D0668EF375CD&profile=pass
@@ -45,28 +45,28 @@ http://43.229.148.133:9981/stream/channelid/2040636019?ticket=D633506DAC8EAAF211
 http://43.229.148.133:9981/stream/channelid/1988859384?ticket=745D1C4D142840BF3C27528733696FE81B6FA39D&profile=pass
 
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1920px-Rajawali_Televisi.svg.png" group-title="Lokal" tvg-chno="15",RTV 
-http://43.229.148.133:9981/stream/channelid/306984362?ticket=C2E9146000FD28DC1B2CFC317E1DB1EC67E77978&profile=pass
+http://rr.dens.tv/h/h10/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:0 tvg-id="NET TV - [Channel 116].id" tvg-name="NET TV - [Channel 116].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7c/NETCHANNEL.png/120px-NETCHANNEL.png" group-title="Lokal" tvg-chno="16",NET.
-http://103.237.32.213:9981/stream/channelid/1836125181?profile=pass
+http://rr.dens.tv/h/h223/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV - [Channel 115].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="Lokal" tvg-chno="17",ANTV
-http://43.229.148.133:9981/stream/channelid/1151042080?ticket=A5F34E3DBC79E494C2CEC7D6951ECE595AD88CD4&profile=pass
+http://43.229.148.133:9981/stream/channelid/1750579276?ticket=F509C108CB567D1D390A3D22136933BCD0D38F18&profile=pass
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="Lokal" tvg-chno="18",tvOne
-http://43.229.148.133:9981/stream/channelid/396380130?ticket=721A50CE8834AB0D255223845CC32219C8C84AF5&profile=pass
+http://43.229.148.133:9981/stream/channelid/1740946335?ticket=9F18C3591D839131C49FC83FD2DBE95D3AA6452A&profile=pass
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1920px-KOMPAS_TV_%282017%29.png" group-title="Lokal" tvg-chno="19",Kompas TV
-http://43.229.148.133:9981/stream/channelid/2037463503?ticket=CEDE188AF5B6FED8FC944CE1FB40A86403976144&profile=pass
+http://43.229.148.133:9981/stream/channelid/906046378?ticket=A7E55D4096FFAAC3FB246FD16C78F5BC9C4555C0&profile=pass
 
 #EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/800px-VTV_Indonesia_2023.svg.png" group-title="Lokal" tvg-chno="20",VTV
-http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
+http://43.229.148.133:9981/stream/channelid/173256897?ticket=EC89681F2BB475358CED62831D12941E02CE31ED&profile=pass
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="Lokal" tvg-chno="21",Metro TV
-http://43.229.148.133:9981/stream/channelid/1141394685?ticket=EFBFC7DAF161E609172CEDC634992FABAEB20384&profile=pass
+http://43.229.148.133:9981/stream/channelid/156792987?ticket=6FC8ACF25D8B0F4EDA170105D15F0484D6C65371&profile=pass
 
 #EXTINF:0 tvg-id="Garuda TV" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="Lokal" tvg-chno="22",Garuda TV 
-http://43.229.148.133:9981/stream/channelid/681876432?ticket=690B64A849577DCB747566BFB47AC9E60663E15F&profile=pass
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="Lokal" ,CNN Indonesia
 http://43.229.148.133:9981/stream/channelid/132767801?ticket=4E2B76104D208CE8E3F0BC9F2384DCD8BA835819&profile=pass
@@ -104,8 +104,11 @@ http://103.237.32.213:9981/stream/channelid/1256118101?profile=pass
 #EXTINF:0 tvg-id="RRI NET" tvg-name="RRI NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/200px-RRI_NET_2023.svg.png" group-title="Lokal" tvg-chno="34",RRI NET
 https://rrinet.rri.co.id/hls/live.m3u8
 
-#EXTINF:0 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/180px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Lokal" tvg-chno="35",JTV
+#EXTINF:0 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/180px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Lokal 2" tvg-chno="35",JTV Madiun
 http://43.229.148.133:9981/stream/channelid/1510462098?ticket=A3A3C9E317057A6C28F849EE5CA96B694FEADE91&profile=pass
+
+#EXTINF:0 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/180px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Lokal" tvg-chno="35",JTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jawa_Pos_Group_logo.svg/250px-Jawa_Pos_Group_logo.svg.png" group-title="Lokal" tvg-chno="36",Jawapos TV
 https://v2.siar.us/jawapostv/live/playlist.m3u8
@@ -252,7 +255,7 @@ https://melon-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 #EXTINF:-1, tvg-id="Bloomberg Television HD" tvg-name="Bloomberg Television HD" group-title="News" tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" tvg-chno="82",Bloomberg TV Asia
 https://melon-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:-1, tvg-id="Bloomberg Television HD" tvg-name="Bloomberg Television HD" group-title="News" tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" tvg-chno="82",Bloomberg TV Asia
+#EXTINF:-1, tvg-id="Bloomberg Television HD" tvg-name="Bloomberg Television HD" group-title="Premium" tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" tvg-chno="82",Bloomberg TV Asia SD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -536,50 +539,25 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies HBO",HBO
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded53
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies HBO",HBO SG
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbofammax.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Movies HBO",HBO Family
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d1
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Movies HBO",HBO Family SG
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies HBO",HBO Hits
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e54
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies HBO",HBO Hits SG
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbosigmax.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="Movies HBO",HBO Signature
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="Movies",HBO Signature SG
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies HBO",Cinemax
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies HBO",Cinemax SG
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -671,7 +649,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
-#EXTINF:-1, tvg-id="Zee Bioskop - [Channel 23].id" tvg-name="Zee Bioskop - [Channel 23].id" group-title="India" tvg-logo="https://i.imgur.com/Xl7MJnd.png" tvg-chno="218",Zee Bioskop
+#EXTINF:-1, tvg-id="Zee Bioskop - [Channel 23].id" tvg-name="Zee Bioskop - [Channel 23].id" group-title="Premium" tvg-logo="https://i.imgur.com/Xl7MJnd.png" tvg-chno="218",Zee Bioskop
 https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -832,32 +810,32 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 2
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 1
 https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 3
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 2
 https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 4
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 3
 https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 5
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 4
 https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 6
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 5
 https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 7
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png", group-title="Mola Sports", Mola Sports Live 6
 https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 #EXTINF:-1 group-title="DAZN Sports"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png",Eleven Sports 1
@@ -1234,19 +1212,19 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index
 #EXTINF:0 tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png" group-title="Chinese Channel" tvg-chno="422",TVBS Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8
 
-#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD - [Channel 430].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal 2" ,RCTI V+
+#EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD - [Channel 430].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal 2" ,RCTI MVN
 http://203.77.246.2:443/udp/239.1.3.80:5000
 
 #EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal 2" tvg-chno="5",RCTI HD
 http://43.229.148.133:9981/stream/channelid/1444565354?ticket=6569C2251F857140659882DAD0364DD540D1AEAE&profile=pass
 
-#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal 2" ,MNC TV V+
+#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal 2" ,MNC TV MVN
 http://203.77.246.2:443/udp/239.1.3.78:5000
 
 #EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal 2" ,MNC TV HD
 http://43.229.148.133:9981/stream/channelid/1614103411?ticket=498E9A371C267D05029B4458226B8367225C2A33&profile=pass
 
-#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV HD - [Channel 431].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal 2" ,GTV V+
+#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV HD - [Channel 431].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal 2" ,GTV MVN
 http://203.77.246.2:443/udp/239.1.3.68:5000
 
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV HD - [Channel 431].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal 2" ,GTV HD
@@ -1255,7 +1233,7 @@ http://43.229.148.133:9981/stream/channelid/657356524?ticket=0584E9A9232C597424B
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
-#EXTINF:0 tvg-id="iNews - [Channel 83].id" tvg-name="iNews - [Channel 83].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal 2" ,iNews V+
+#EXTINF:0 tvg-id="iNews - [Channel 83].id" tvg-name="iNews - [Channel 83].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal 2" ,iNews MVN
 https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:0 tvg-id="iNews - [Channel 83].id" tvg-name="iNews - [Channel 83].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal 2" ,iNews HD
@@ -1270,11 +1248,17 @@ http://rr.dens.tv/h/h207/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="Lokal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" ,MOJI SD
 http://rr.dens.tv/s/h210/index.m3u8|User-Agent=Lavf/56.15.102
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1920px-Rajawali_Televisi.svg.png" group-title="Lokal 2",RTV SD
-http://rr.dens.tv/h/h10/index.m3u8|User-Agent=Lavf/56.15.102
+https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:0 tvg-id="NET TV" tvg-name="NET TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1920px-NET._sky_blue.svg.png" group-title="Lokal 2",NET. SD
-http://rr.dens.tv/h/h223/index.m3u8|User-Agent=Lavf/56.15.102
+https://melon-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="Lokal 2",ANTV SD
 http://rr.dens.tv/h/h235/index.m3u8|User-Agent=Lavf/56.15.102
@@ -1298,13 +1282,19 @@ http://rr.dens.tv/h/h12/index.m3u8|User-Agent=Lavf/56.15.102
 http://43.229.148.133:9981/stream/channelid/1409732919?ticket=25F82C71238D7E28D27C66A2A74BAC598C5586B6&profile=pass
 
 #EXTINF:0 tvg-id="Garuda TV" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="Lokal 2" ,Garuda TV HD
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
 
-#EXTINF:0 tvg-id="TRANS TV" tvg-name="TRANS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="Lokal 2" tvg-chno="13",Trans TV HD
-http://43.229.148.133:9981/stream/channelid/1269387850?ticket=DA17C545F5565977B307BA889357575145CB86ED&profile=pass
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
+#EXTINF:0 tvg-id="TRANS TV" tvg-name="TRANS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="Lokal 2" tvg-chno="13",Trans TV TRV
+https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:0 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="Lokal 2",Trans 7 TRV
-http://43.229.148.133:9981/stream/channelid/602145045?ticket=BABB5548E62E2B8D3BCCE32FFFE1DABB8BD8FC92&profile=pass
+https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/200px-CNN_Indonesia_logo.svg.png" group-title="Lokal 2" tvg-chno="23",CNN Indonesia SD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
@@ -1323,9 +1313,6 @@ http://rr.dens.tv/h/h200/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:0 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI - [Channel 118].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal 2" tvg-chno="1",TVRI Nasional SD
 http://rr.dens.tv/h/h237/index.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:0 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI - [Channel 118].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal 2" tvg-chno="1",TVRI Nasional
-http://103.172.240.165:1190/stream/channelid/87085744?profile=pass
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png" group-title="Lokal 2" tvg-chno="3",TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
