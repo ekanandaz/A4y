@@ -1006,7 +1006,6 @@ http://43.229.148.133:9981/stream/channelid/1957688167?ticket=B879F9EDB7DA6A3BEC
 #EXTINF:-1 tvg-id="DidikTVKPM" group-title="Malaysia" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
 http://43.229.148.133:9981/stream/channelid/220073549?ticket=581AF72E919520A0744D405234DCF47D7854AFF4&profile=pass
 
-
 #EXTINF:-1 tvg-id="8TV" group-title="Malaysia" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
 http://43.229.148.133:9981/stream/channelid/1521089593?ticket=CF060F2F62D576DE28478ECD87B0F308F6C42649&profile=pass
 
@@ -1085,7 +1084,6 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0054/HLS/
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8
 
 #EXTINF:-1 tvg-id="PPTV HD.th" tvg-name="PPTV HD.th" tvg-id="PPTV" tvg-name="PPTV Thailand" group-title="Thailand" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtQTUkQW_S6ILl8Li8t8XYhjUaefI6bpFPx3T3iH2&s" tvg-chno="382",PPTV Thailand HD
-
 http://43.229.148.133:9981/stream/channelid/692697008?ticket=CFA74BBD082FAF771056D383972EE4D3AA218D00&profile=pass
 
 #EXTINF:-1 tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD.th" group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png" tvg-chno="383",Thairath TV
@@ -1246,7 +1244,7 @@ http://rr.dens.tv/h/h217/index.m3u8|User-Agent=Lavf/56.15.102
 http://rr.dens.tv/h/h207/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="Lokal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" ,MOJI SD
-http://rr.dens.tv/s/h210/index.m3u8|User-Agent=Lavf/56.15.102
+http://rr3.dens.tv/s/s41/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
