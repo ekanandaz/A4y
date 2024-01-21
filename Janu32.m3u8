@@ -15,34 +15,34 @@ http://43.229.148.133:9981/stream/channelid/526363306?ticket=E91FEBADD52E51B2BCE
 http://43.229.148.133:9981/stream/channelid/676088833?ticket=FD2E98B39BC856C1E4061CD3017939E08F0C3945&profile=pass
 
 #EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal" tvg-chno="5",RCTI
-http://43.229.148.133:9981/stream/channelid/1283795999?ticket=BA32AAEAD8D04BD0DA4E0EEF77E8A1D456F46AA2&profile=pass
+http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
 
 #EXTINF:0 tvg-id="MNCTV - [Channel 432]" tvg-name="MNCTV - [Channel 82].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal" tvg-chno="6",MNC TV
-http://43.229.148.133:9981/stream/channelid/1368123482?ticket=77303BC005C535E110165AC5196507517E05B47B&profile=pass
+http://103.237.32.213:9981/stream/channelid/1397747788?profile=pass
 
 #EXTINF:0 tvg-id="GTV - [Channel 431].id" tvg-name="GTV - [Channel 81].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal" tvg-chno="7",GTV
-http://43.229.148.133:9981/stream/channelid/644677733?ticket=ED7C127A6D48992ACA05AC8F4D8710BE1CF62542&profile=pass
+http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
 
 #EXTINF:0 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews HD - [Channel 433].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal" tvg-chno="8",iNews
-http://43.229.148.133:9981/stream/channelid/561171537?ticket=1709A0FEE03AA51D658C4F2D735E830A08EE0F66&profile=pass
+http://103.237.32.213:9981/stream/channelid/577841529?profile=pass
 
 #EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="Lokal" tvg-chno="9",SCTV
-http://43.229.148.133:9981/stream/channelid/1092315611?ticket=186DA947553F4357ADCB60506D9984D3D12E951C&profile=pass
+http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
 
 #EXTINF:0 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="Lokal" tvg-chno="11",Indosiar
-http://43.229.148.133:9981/stream/channelid/707880889?ticket=862E91B8BFA9685E42C2A78CF4EF4B120F5960CF&profile=pass
+http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 
 #EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" tvg-chno="12",MOJI 
-http://43.229.148.133:9981/stream/channelid/1514563526?ticket=CBC5B6A97C75889BDD1832996AE15166527FAAD8&profile=pass
+http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 
 #EXTINF:0, tvg-id="Mentari TV" tvg-name="Mentari TV" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mentari_TV.png/200px-Mentari_TV.png" tvg-chno="10", Mentari TV
-http://43.229.148.133:9981/stream/channelid/1881610595?ticket=0F3C92E93F16881C8A1B62F127F2242E33CB0DDF&profile=pass
+http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 
 #EXTINF:0 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="Lokal" tvg-chno="14",Trans 7 
-http://43.229.148.133:9981/stream/channelid/2040636019?ticket=D633506DAC8EAAF211BFDC5D91B6D0668EF375CD&profile=pass
+http://103.172.240.165:1190/stream/channelid/207182007?profile=pass
 
 #EXTINF:0 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV - [Channel 87].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="Lokal" tvg-chno="13",Trans TV
-http://43.229.148.133:9981/stream/channelid/1988859384?ticket=745D1C4D142840BF3C27528733696FE81B6FA39D&profile=pass
+http://103.172.240.165:1190/stream/channelid/1294897324?profile=pass
 
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1920px-Rajawali_Televisi.svg.png" group-title="Lokal" tvg-chno="15",RTV 
 http://rr.dens.tv/h/h10/index.m3u8|User-Agent=Lavf/56.15.102
@@ -51,16 +51,16 @@ http://rr.dens.tv/h/h10/index.m3u8|User-Agent=Lavf/56.15.102
 http://rr.dens.tv/h/h223/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV - [Channel 115].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="Lokal" tvg-chno="17",ANTV
-http://43.229.148.133:9981/stream/channelid/1750579276?ticket=F509C108CB567D1D390A3D22136933BCD0D38F18&profile=pass
+http://103.237.32.213:9981/stream/channelid/787526729?profile=pass
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="Lokal" tvg-chno="18",tvOne
-http://43.229.148.133:9981/stream/channelid/1740946335?ticket=9F18C3591D839131C49FC83FD2DBE95D3AA6452A&profile=pass
+http://103.237.32.213:9981/stream/channelid/303387948?profile=pass
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1920px-KOMPAS_TV_%282017%29.png" group-title="Lokal" tvg-chno="19",Kompas TV
 http://43.229.148.133:9981/stream/channelid/906046378?ticket=A7E55D4096FFAAC3FB246FD16C78F5BC9C4555C0&profile=pass
 
 #EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/800px-VTV_Indonesia_2023.svg.png" group-title="Lokal" tvg-chno="20",VTV
-http://43.229.148.133:9981/stream/channelid/173256897?ticket=EC89681F2BB475358CED62831D12941E02CE31ED&profile=pass
+http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="Lokal" tvg-chno="21",Metro TV
 http://43.229.148.133:9981/stream/channelid/156792987?ticket=6FC8ACF25D8B0F4EDA170105D15F0484D6C65371&profile=pass
@@ -69,7 +69,7 @@ http://43.229.148.133:9981/stream/channelid/156792987?ticket=6FC8ACF25D8B0F4EDA1
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="Lokal" ,CNN Indonesia
-http://43.229.148.133:9981/stream/channelid/132767801?ticket=4E2B76104D208CE8E3F0BC9F2384DCD8BA835819&profile=pass
+http://103.237.32.213:9981/stream/channelid/226992202?profile=pass
 
 #EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="Lokal" ,CNBC Indonesia
 http://43.229.148.133:9981/stream/channelid/1052963665?ticket=230C97AC516DA2DBE72E7821E0CF2F6E1B523A12&profile=pass
