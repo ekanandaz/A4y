@@ -2,17 +2,17 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/singaporepremium.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml,"
 
 #EXTINF:0 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI - [Channel 118].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal" tvg-chno="1",TVRI Nasional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://43.229.148.133:9981/stream/channelid/1593602663?ticket=11CF67370921633B506A9E48E6147428F753789F&profile=pass
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png" group-title="Lokal" tvg-chno="3",TVRI World
-http://43.229.148.133:9981/stream/channelid/1244906173?ticket=8E0CBB4601F6F85F61496048C2349F235516B980&profile=pass
+http://103.237.32.213:9981/stream/channelid/455417035?profile=pass
 
 #EXTINF:0 tvg-id="TVRINasional.id" tvg-name="TVRI Jawa Timur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal" tvg-chno="2",TVRI Jawa Timur
-http://43.229.148.133:9981/stream/channelid/526363306?ticket=E91FEBADD52E51B2BCE745B383B6D261FF35AE88&profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/stream3/streamPlaylist.m3u8
 
-#EXTINF:0 tvg-id="TVRISport.id"  tvg-name="TVRI Sport" tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="Sports" tvg-chno="4",TVRI Sport 
-http://43.229.148.133:9981/stream/channelid/676088833?ticket=FD2E98B39BC856C1E4061CD3017939E08F0C3945&profile=pass
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png" group-title="Lokal" tvg-chno="3",TVRI World
+http://103.237.32.213:9981/stream/channelid/2087137957?profile=pass
+
+#EXTINF:0 tvg-id="TVRISport.id"  tvg-name="TVRI Sport" tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="Lokal" tvg-chno="4",TVRI Sport 
+http://103.237.32.213:9981/stream/channelid/455417035?profile=pass
 
 #EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal" tvg-chno="5",RCTI
 http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
@@ -57,13 +57,13 @@ http://103.237.32.213:9981/stream/channelid/787526729?profile=pass
 http://103.237.32.213:9981/stream/channelid/303387948?profile=pass
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1920px-KOMPAS_TV_%282017%29.png" group-title="Lokal" tvg-chno="19",Kompas TV
-http://43.229.148.133:9981/stream/channelid/906046378?ticket=A7E55D4096FFAAC3FB246FD16C78F5BC9C4555C0&profile=pass
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/800px-VTV_Indonesia_2023.svg.png" group-title="Lokal" tvg-chno="20",VTV
 http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="Lokal" tvg-chno="21",Metro TV
-http://43.229.148.133:9981/stream/channelid/156792987?ticket=6FC8ACF25D8B0F4EDA170105D15F0484D6C65371&profile=pass
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
 
 #EXTINF:0 tvg-id="Garuda TV" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="Lokal" tvg-chno="22",Garuda TV 
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
@@ -72,7 +72,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 http://103.237.32.213:9981/stream/channelid/226992202?profile=pass
 
 #EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="Lokal" ,CNBC Indonesia
-http://43.229.148.133:9981/stream/channelid/1052963665?ticket=230C97AC516DA2DBE72E7821E0CF2F6E1B523A12&profile=pass
+http://103.237.32.213:9981/stream/channelid/2050623964?profile=pass
 
 #EXTINF:0 tvg-id="IDX HD - [Channel 436].id" tvg-name="IDX HD - [Channel 436].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="Lokal" tvg-chno="25",IDX Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
@@ -104,9 +104,6 @@ http://103.237.32.213:9981/stream/channelid/1256118101?profile=pass
 #EXTINF:0 tvg-id="RRI NET" tvg-name="RRI NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/200px-RRI_NET_2023.svg.png" group-title="Lokal" tvg-chno="34",RRI NET
 https://rrinet.rri.co.id/hls/live.m3u8
 
-#EXTINF:0 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/180px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Lokal 2" tvg-chno="35",JTV Madiun
-http://43.229.148.133:9981/stream/channelid/1510462098?ticket=A3A3C9E317057A6C28F849EE5CA96B694FEADE91&profile=pass
-
 #EXTINF:0 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/180px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Lokal" tvg-chno="35",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 
@@ -132,7 +129,7 @@ http://rr3.dens.tv/s/s13/index.m3u8|User-Agent=Lavf/56.15.102
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/chunklist_b2592000.m3u8
 
 #EXTINF:0 tvg-id="Indonesiana TV" tvg-name="Indonesiana TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Lokal" tvg-chno="42",Indonesiana TV
-https://63b2dc7196c38.streamlock.net:1937/indonesianamusik/myStream/chunklist_w174646257.m3u8
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 #EXTINF:-1, group-title="Lokal" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg",Elshinta TV
 http://rr2.dens.tv/s/s12/index.m3u8|User-Agent=Lavf/56.15.102
@@ -215,9 +212,6 @@ https://melon-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlK
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1 tvg-id="Muslim TV - [Channel 92].id" tvg-name="Muslim TV - [Channel 92].id" group-title="Religi" tvg-chno="64" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muslim-tv-id.png", Muslim TV (MNC)
 https://melon-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
-#EXTINF:-1 tvg-id="AJWA TV" tvg-name="AJWA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png" group-title="Lokal",Ajwa TV (Kaltim TV)
-http://43.229.148.133:9981/stream/channelid/1988680047?ticket=3124EA84CA551058CD12F8CB1AC92DE6421EECE5&profile=pass
 
 #EXTINF:-1 tvg-id="TV9 NU" tvg-name="TV9 NU" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="Religi" tvg-chno="65",TV9 Jawa Timur (Islam)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8
@@ -761,11 +755,9 @@ http://rr.dens.tv/h/h26/index2.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1, group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" tvg-chno="326", MUTV
 https://zz@bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8?zz
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-name="Sukan RTM" group-title="Sports" ch-number="RTMK05" tvg-id="RTMK05" tvg-chno="RTMK05" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" tvg-chno="327",Sukan RTM Malaysia
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-name="Sukan RTM" group-title="Sports" ch-number="RTMK05" tvg-id="RTMK05" tvg-chno="RTMK05" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" tvg-chno="327",Sukan RTM HD
-http://43.229.148.133:9981/stream/channelid/490057759?ticket=974E3F7CACE517ACEB55C8E2E6BDA205A39F854B&profile=pass
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 
 #EXTINF:-1 tvg-id="Premier Sports" tvg-name="Premier Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/207_1920x1080_HTV.png" group-title="Sports" tvg-chno="328",Premier Sports
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
@@ -985,41 +977,25 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index
 #EXTINF:-1 tvg-id="Zhejiang" tvg-name="Zhejiang" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhejiang-satellite-tv-cn.png" group-title="Chinese Channel" tvg-chno="369",Zhejiang TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8 
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="Malaysia" ch-number="RTMK01" tvg-id="RTMK01" tvg-chno="RTMK01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/150px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-chno="371",TV1 Malaysia
-http://43.229.148.133:9981/stream/channelid/165435677?ticket=BB0544302D7A90BD098B25C38714895C24CCA48C&profile=pass
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="Malaysia" ch-number="RTMK02" tvg-id="RTMK02" tvg-chno="RTMK02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-chno="372",TV2 Malaysia
-http://43.229.148.133:9981/stream/channelid/1204830265?ticket=E45BBA6C98D8F3A2599E90506684CCD0E1D5C83B&profile=pass
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 tvg-id="Okey" tvg-name="Okey" group-title="Malaysia" ch-number="RTMK03" tvg-id="RTMK03" tvg-chno="RTMK03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" btvg-chno="374",TV Okey
-http://43.229.148.133:9981/stream/channelid/822397400?ticket=F5FAB12EBA258BCC24C48D5866885A5E0164C39C&profile=pass
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 tvg-id="Berita RTM" tvg-name="Berita RTM" group-title="Malaysia" ch-number="RTMK04" tvg-id="RTMK04" tvg-chno="RTMK04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/200px-Logo_Berita_RTM.png" tvg-chno="375",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5|Referer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" group-title="Malaysia" ch-number="RTMK06" tvg-id="RTMK06" tvg-chno="RTMK06" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" tvg-chno="376",TV6
-http://43.229.148.133:9981/stream/channelid/194890310?ticket=AF8D7B1B783494577B1C05AA566320D236004597&profile=pass
-
-#EXTINF:-1 tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
-http://43.229.148.133:9981/stream/channelid/1957688167?ticket=B879F9EDB7DA6A3BECC7E7946B43A1A3C74711AC&profile=pass
-
-#EXTINF:-1 tvg-id="DidikTVKPM" group-title="Malaysia" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
-http://43.229.148.133:9981/stream/channelid/220073549?ticket=581AF72E919520A0744D405234DCF47D7854AFF4&profile=pass
-
-#EXTINF:-1 tvg-id="8TV" group-title="Malaysia" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
-http://43.229.148.133:9981/stream/channelid/1521089593?ticket=CF060F2F62D576DE28478ECD87B0F308F6C42649&profile=pass
-
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/200px-TV9_%28Malaysia%29_logo.svg.png",TV9
-http://43.229.148.133:9981/stream/channelid/1535498814?ticket=6D88E4E3F0C6DBAD21B5378D913071F67F5BF0B2&profile=pass
-
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/150px-Awesome_TV_Malaysia.png",Awesome TV
-http://43.229.148.133:9981/stream/channelid/166229613?ticket=E41FA900E1F5C19CAC559A56F6409860A7B03267&profile=pass
-
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/600px-TVS_Sarawak.jpg",TVS
-http://43.229.148.133:9981/stream/channelid/347273006?ticket=9600435D53D6B9E68829AFF9E0C32968070F63AA&profile=pass
-
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://marketingmagazine.com.my/wp-content/uploads/2022/07/ideal-systems-suke-tv-malaysia-singapore.jpeg",Suke TV
-http://43.229.148.133:9981/stream/channelid/1481056227?ticket=40BE398DA6322D9362B8144792B862AA92DFC353&profile=pass
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 #EXTINF:-1 tvg-id="Channel 5 HD" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="SINGAPORE",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1083,15 +1059,9 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0054/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8
 
-#EXTINF:-1 tvg-id="PPTV HD.th" tvg-name="PPTV HD.th" tvg-id="PPTV" tvg-name="PPTV Thailand" group-title="Thailand" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtQTUkQW_S6ILl8Li8t8XYhjUaefI6bpFPx3T3iH2&s" tvg-chno="382",PPTV Thailand HD
-http://43.229.148.133:9981/stream/channelid/692697008?ticket=CFA74BBD082FAF771056D383972EE4D3AA218D00&profile=pass
-
 #EXTINF:-1 tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD.th" group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png" tvg-chno="383",Thairath TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8
-
-#EXTINF:-1 tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD.th" group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png" tvg-chno="383",Thairath TV HD
-http://43.229.148.133:9981/stream/channelid/265428138?ticket=99592A020BC724BA125DE60242F696FBD3DC82AA&profile=pass
 
 #EXTINF:-1 tvg-id="CH7 HD.th" tvg-name="CH7 HD.th" group-title="Thailand" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/BBTVChannel7_LogoHD.png/revision/latest?cb=20160117052448" tvg-chno="387",BBTV Channel 7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1120,9 +1090,6 @@ https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/
 #EXTINF:-1 tvg-id="T-Sports7.th" tvg-name="T-Sports7.th" group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/d24d1be0-d05a-4d54-b440-2042ee01460d.png" tvg-chno="390",T-Sport7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0129/HLS/V0129.m3u8
-
-#EXTINF:-1 tvg-id="T-Sports7.th" tvg-name="T-Sports7.th" group-title="Thailand" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/d24d1be0-d05a-4d54-b440-2042ee01460d.png" tvg-chno="390",T-Sport7 2
-http://43.229.148.133:9981/stream/channelid/715251977?ticket=878D791DC29A2728B9977075A12C0EA368461D53&profile=pass
 
 #EXTINF:-1 tvg-id="TPBS.th" tvg-name="TPBS.th" group-title="Thailand" tvg-logo="https://e7.pngegg.com/pngimages/45/788/png-clipart-logo-thailand-thai-pbs-thai-public-broadcasting-service-thaipbs-logo-thailand-text-logo-thumbnail.png" tvg-chno="391",Thai PBS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1213,29 +1180,17 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index
 #EXTINF:0 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD - [Channel 430].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal 2" ,RCTI MVN
 http://203.77.246.2:443/udp/239.1.3.80:5000
 
-#EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="Lokal 2" tvg-chno="5",RCTI HD
-http://43.229.148.133:9981/stream/channelid/1444565354?ticket=6569C2251F857140659882DAD0364DD540D1AEAE&profile=pass
-
 #EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal 2" ,MNC TV MVN
 http://203.77.246.2:443/udp/239.1.3.78:5000
 
-#EXTINF:0 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="Lokal 2" ,MNC TV HD
-http://43.229.148.133:9981/stream/channelid/1614103411?ticket=498E9A371C267D05029B4458226B8367225C2A33&profile=pass
-
 #EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV HD - [Channel 431].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal 2" ,GTV MVN
 http://203.77.246.2:443/udp/239.1.3.68:5000
-
-#EXTINF:0 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV HD - [Channel 431].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Lokal 2" ,GTV HD
-http://43.229.148.133:9981/stream/channelid/657356524?ticket=0584E9A9232C597424B5D98D7C071BBED3166289&profile=pass
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:0 tvg-id="iNews - [Channel 83].id" tvg-name="iNews - [Channel 83].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal 2" ,iNews MVN
 https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#EXTINF:0 tvg-id="iNews - [Channel 83].id" tvg-name="iNews - [Channel 83].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Lokal 2" ,iNews HD
-http://43.229.148.133:9981/stream/channelid/1362998841?ticket=9B53E79B877F0E1A1D73CB736C200B7494BA9523&profile=pass
 
 #EXTINF:0 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV - [Channel 89].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="Lokal 2" ,SCTV SD
 http://rr.dens.tv/h/h217/index.m3u8|User-Agent=Lavf/56.15.102
@@ -1267,17 +1222,8 @@ http://rr.dens.tv/h/h40/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="Kompas TV" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1920px-KOMPAS_TV_%282017%29.png" group-title="Lokal 2",Kompas TV SD
 http://rr.dens.tv/h/h234/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-id="Kompas TV" tvg-name="Kompas TV" tvg-logo="https://www.rbtvjogja.tv/themes/tv/images/logo-1.png" group-title="Lokal 2",Kompas TV - RBTV 
-http://43.229.148.133:9981/stream/channelid/49226639?ticket=094B3968073D206A4D2CD26B8FCB5042F23261A2&profile=pass
-
-#EXTINF:-1 tvg-id="Kompas TV" tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1920px-KOMPAS_TV_%282017%29.png" group-title="Lokal 2",Kompas TV HD
-http://43.229.148.133:9981/stream/channelid/629663268?ticket=857720FBFF59AFA73388D4D8ACA207E8B0EA085D&profile=pass
-
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="Lokal 2",Metro TV SD
 http://rr.dens.tv/h/h12/index.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="Lokal 2",Metro TV Jawa Timur
-http://43.229.148.133:9981/stream/channelid/1409732919?ticket=25F82C71238D7E28D27C66A2A74BAC598C5586B6&profile=pass
 
 #EXTINF:0 tvg-id="Garuda TV" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="Lokal 2" ,Garuda TV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
@@ -1309,20 +1255,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:0 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/340%20x%20160%20IDTV@3x.jpg" group-title="Lokal 2",Investor Daily TV SD
 http://rr.dens.tv/h/h200/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:0 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI - [Channel 118].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal 2" tvg-chno="1",TVRI Nasional SD
-http://rr.dens.tv/h/h237/index.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png" group-title="Lokal 2" tvg-chno="3",TVRI World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
-
-#EXTINF:0 tvg-id="TVRINasional.id" tvg-name="TVRI Jawa Timur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal 2" tvg-chno="2",TVRI Jawa Timur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/stream3/streamPlaylist.m3u8
-
-#EXTINF:0 tvg-id="TVRISport.id"  tvg-name="TVRI Sport" tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="Lokal 2" tvg-chno="4",TVRI Sport 
-http://rr.dens.tv/h/h238/index.m3u8|User-Agent=Lavf/56.15.102
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1331,3 +1263,13 @@ https://melon-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 
 #EXTINF:0 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_nusantaratv.png/220px-Logo_nusantaratv.png" group-title="Lokal 2" ,Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:0 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI - [Channel 118].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="Lokal 2" tvg-chno="1",TVRI Nasional SD
+http://rr.dens.tv/h/h237/index.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png" group-title="Lokal 2" tvg-chno="3",TVRI World SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
+
+#EXTINF:0 tvg-id="TVRISport.id"  tvg-name="TVRI Sport" tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="Sports" tvg-chno="4",TVRI Sport SD
+http://rr.dens.tv/h/h238/index.m3u8|User-Agent=Lavf/56.15.102
